@@ -180,6 +180,6 @@ class Captcha
 	}
 }
 
-$code = new Captcha(200,100,5,3);
-header("code:".$code->code);
-$code->outImage();
+// $code = new Captcha(200,100,5,3);
+// header("code:".$code->code);
+// $code->outImage();
