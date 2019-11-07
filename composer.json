@@ -1,7 +1,6 @@
 {
     "name": "catcatmouse/captcha",
-    "description": "gd生成的验证码",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +8,5 @@
             "email": "980440825@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
